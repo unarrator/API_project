@@ -1,0 +1,19 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.stButton>button {
+    font-family: "Times New Roman", Times, serif;
+    color: #4F8BF9;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+}
+
+.stTextInput>div>div>input {
+    font-family: "serif", Times, serif;
+    color: #4F8BF9;
+}
