@@ -1,0 +1,23 @@
+This part of the project is entirely done by BT18CSE105.
+
+Here I have used yfinance api to make this stock price app.
+
+Along with that streamlit module is used to deploy the app.
+
+so before starting the project we will have to download these 2 modules by -
+
+pip install streamlit
+pip install yfinance
+
+I have used a style.css file for styling this app.
+
+This app takes name of the stock from user and upon pressing a 'GO' button it will primarily show DAILY CLOSING PRICE
+and DAILY VOLUME for that stocks.
+
+There is a option called 'Display Additional Information'. If we add additional information like 'Stock Actions'
+and 'Quarterly Financials' is added the results will be shown also.
+
+To run the web app the command is
+
+streamlit run web_app_v3.py
+
